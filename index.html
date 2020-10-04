@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RGB Picker</title>
+  <link rel="stylesheet" href="public/css/style.css">
+</head>
+
+<body>
+  <main>
+    <div id="seletores">
+      <h3>Seletor RGB</h3>
+      <div class="bloco">
+        <div>
+          <label for="red">Red: </label>
+          <input type="range" id="red" min="0" max="255" value="0">
+          <input type="text" disabled value="0" id="txtRed">
+        </div>
+      </div>
+
+      <div class="bloco">
+        <div>
+          <label for="green">Green: </label>
+          <input type="range" id="green" min="0" max="255" value="0">
+          <input type="text" disabled value="0" id="txtGreen">
+
+        </div>
+      </div>
+
+      <div class="bloco">
+        <div>
+          <label for="blue">Blue: </label>
+          <input type="range" id="blue" min="0" max="255" value="0">
+          <input type="text" disabled value="0" id="txtBlue">
+
+        </div>
+      </div>
+    </div>
+    <div id="quadrado"></div>
+  </main>
+<script src="js/script.js"></script>
+</body>
+
+</html>
