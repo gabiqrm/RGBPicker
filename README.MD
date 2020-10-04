@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-   <img src="./public/image/logo.png" alt="RGBPicker" width="280"/>
+   <img src="./public/image/logo.png" alt="RGBPicker" />
 </p>
 
 <div align="center">
