@@ -32,9 +32,21 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 🕹️ JS
 
 ---
-## Licença
+
+## 🔗 Contribuições:
+```
+- Faça o fork do projeto (https://github.com/RGBPicker)
+- Crie uma branch para sua modificação (git checkout -b feature/[nome])
+- Faça o commit (git commit -am 'Add files [nome]')
+- Push (git push origin feature/[nome])
+- Crie um novo Pull Request
+```
+
+---
+## 🔐 Licença:
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-##
+## 👩🏻‍💻 Desenvolvedora:
+
 Desenvolvido por Gabriela Queiroz ! 💜
