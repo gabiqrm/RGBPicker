@@ -2,6 +2,9 @@
 🌈 RGB Picker 🎯
 </h2>
 
+---
+
+
 <p align="center">
    <img src="./public/image/logo.png" alt="RGBPicker" />
 </p>
@@ -12,6 +15,7 @@
 
 </div>
 
+---
 ## Sobre:
 
 Este projeto originou se a partir do Bootcamp do curso IGTI, foi um desafio proposto pelo professor Rafael Gomide.
