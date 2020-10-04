@@ -18,7 +18,7 @@
 ---
 ## Sobre:
 
-Este projeto originou se a partir do Bootcamp do curso IGTI, foi um desafio proposto pelo professor Rafael Gomide.
+Este projeto originou-se a partir do Bootcamp do curso IGTI, foi um trabalho prático proposto pelo professor Rafael Gomide.
 
 ---
 ## ⚙️ Tecnologias Utilizadas:
