@@ -2,6 +2,7 @@
 🌈 RGB Picker 🎯
 </h2>
 
+https://gabiqrm.github.io/RGBPicker/
 ---
 
 
