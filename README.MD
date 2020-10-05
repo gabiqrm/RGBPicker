@@ -1,8 +1,8 @@
-<h2 align="center">
 🌈 RGB Picker 🎯
-</h2>
+
 
 https://gabiqrm.github.io/RGBPicker/
+
 ---
 
 
