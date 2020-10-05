@@ -11,6 +11,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/gabiqrm/RGBPicker)](https://github.com/gabiqrm/RGBPicker)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/RGBPicker)](https://github.com/gabiqrm/RGBPicker/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/RGBPicker)](https://github.com/gabiqrm/RGBPicker/)
 
 </div>
+
 ---
 
 ## 🔎 Acesso Rápido:
