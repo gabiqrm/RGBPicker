@@ -1,10 +1,6 @@
-🌈 RGB Picker 🎯
-
-
-https://gabiqrm.github.io/RGBPicker/
+# 🌈 RGB Picker 🎯
 
 ---
-
 
 <p align="center">
    <img src="./public/image/logo.png" alt="RGBPicker" />
@@ -15,9 +11,15 @@ https://gabiqrm.github.io/RGBPicker/
 [![GitHub stars](https://img.shields.io/github/stars/gabiqrm/RGBPicker)](https://github.com/gabiqrm/RGBPicker)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/RGBPicker)](https://github.com/gabiqrm/RGBPicker/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/RGBPicker)](https://github.com/gabiqrm/RGBPicker/)
 
 </div>
+---
+
+## 🔎 Acesso Rápido:
+
+
+https://gabiqrm.github.io/RGBPicker/
 
 ---
-## Sobre:
+## 📋 Sobre:
 
 Este projeto originou-se a partir do Bootcamp do curso IGTI, foi um trabalho prático proposto pelo professor Rafael Gomide.
 
