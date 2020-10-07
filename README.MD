@@ -22,7 +22,7 @@ https://gabiqrm.github.io/RGBPicker/
 ---
 ## 📋 Sobre:
 
-Este projeto originou-se a partir do Bootcamp do curso IGTI, foi um trabalho prático proposto pelo professor Rafael Gomide.
+Este projeto originou-se a partir da realização de um Trabalho Prático proposto pelo professor Rafael Gomide no Bootcamp de Desenvolvedor FullStack - IGTI.
 
 ---
 ## ⚙️ Tecnologias Utilizadas:
